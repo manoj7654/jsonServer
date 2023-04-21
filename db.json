@@ -1,21 +1,18 @@
 {
-  
   "dogs": [
     {
-      "name": "cherry",
-      "age": "5",
+      "name": "tommy",
+      "age": "14",
       "gender": "male",
-      "place": "kusmari",
-      "id": 1
+      "place": "sitamarhi",
+      "id": 3
     },
     {
-      "name": "tommy",
-      "age": "3",
+      "name": "cherry",
+      "age": "10",
       "gender": "female",
-      "place": "bangalore",
-      "id": 2
+      "place": "Delhi",
+      "id": 4
     }
   ]
-
-
 }
